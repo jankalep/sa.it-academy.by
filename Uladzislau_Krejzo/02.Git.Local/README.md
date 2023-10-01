@@ -8,3 +8,7 @@ It's my belated Homework for 02.Git.Local.
 
 ## Added tags
 Added tags v1.0 and v2.0 with description.
+
+## Bug-fix
+Example. I don't setup time of system. Date isn't actualy.
+Sat Sep 30 23:24:35 +03 2023
